@@ -13,7 +13,7 @@ const Layout = ({ children }) => {
 
             <footer className={styles.footer}>
                 <p>
-                    © {new Date().getFullYear()} Web Blog. All rights reserved.
+                    © {new Date().getFullYear()} Moh Nafi Adhi Rajasa. All rights reserved.
                 </p>
             </footer>
         </div>
